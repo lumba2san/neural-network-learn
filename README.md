@@ -1,5 +1,5 @@
 # Note : 
-Repo ini dipakai sebagai archive pribadi dari bagaimana untuk menjawab pertanyaan bagaimana cara kerja dari neural network. Mulai dari forward pass, loss, back propagation sampai ke optimization. 
+Repo ini dipakai sebagai archive pribadi untuk menjawab pertanyaan bagaimana cara kerja dari neural network. Mulai dari forward pass, loss, back propagation sampai ke optimization. 
 
 Aplikasi yang digunakan : 
 - miniconda
