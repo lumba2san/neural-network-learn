@@ -1,0 +1,6 @@
+data/
+KAN/
+__pycache__/
+.ipynb_checkpoints/
+*.txt
+Untitled*
